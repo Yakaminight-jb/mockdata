@@ -3,19 +3,29 @@ sihub-k3
 sihub-k12
 
 sihub-presence
+after 打卡, 有出入記錄
+subsiste work with hardware include 打卡機, 發卡, 白名單, 黑名單處理.
 
 sihub-guardian
+家校通信.主要對象是家長
 
 sihub-commu
 
+
 sihub-venue
+場地
 
 sihub-assets
+資產
 
 sihub-finance
+財務會計
 
 sihub-events
+活動
 
 sihub-wallet
+支付平台
 
 sihub-aider
+輔助功具
